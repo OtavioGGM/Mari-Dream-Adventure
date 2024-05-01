@@ -17,3 +17,6 @@ func _on_ProximaFase_body_entered(hero):
 		$CanvasLayer/Sprite/AnimationPlayer.play("Abre")
 		
 		print(get_tree().get_current_scene())
+
+
+
