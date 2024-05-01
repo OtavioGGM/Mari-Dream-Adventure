@@ -26,3 +26,5 @@ func mouse_interaction (button: Button, state: String) -> void:
 			button.modulate.a = 1.0
 		"entered":
 			button.modulate.a = 0.5
+
+
